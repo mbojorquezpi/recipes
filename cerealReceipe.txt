@@ -1,0 +1,7 @@
+Step 1: Get bowl
+Step 2: Get spoon
+Step 3: Get cereal
+Step 4: Get milk
+Step 5: Pour cereal in bowl
+Step 6: Pour milk in bowl
+Step 7: Eat with spoon
